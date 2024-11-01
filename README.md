@@ -102,5 +102,9 @@ https://www.linkedin.com/posts/freenome_today-we-want-to-take-a-moment-to-expres
 
 https://www.medtechdive.com/news/freenome-cancer-test-funding-roche-quest/707743/#:~:text=Freenome%27s%20funding%20passed%20the%20%241,a%20patient%20may%20have%20cancer
 
-https://guardanthealth.com/precision-oncology/our-approach/\
+https://guardanthealth.com/precision-oncology/our-approach/
+
+## Code :
+
+I used code from Manish's lectures as well as my own notes document, as well as this youtube video https://www.youtube.com/watch?v=tRZGeaHPoaw, recommended by Manish.
 
